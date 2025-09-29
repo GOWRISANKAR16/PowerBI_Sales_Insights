@@ -29,7 +29,8 @@ This allows users to dynamically analyze revenue and sales across different time
    - Top 5 Products  
 5. Combined all visuals into an interactive dashboard with slicers for year and month.
 ## Dashboard
-<img width="610" height="325" alt="PowerBI_Sales_Insights" src="https://github.com/user-attachments/assets/66bdb930-6a68-4b2e-9966-c05e638b571a" />
+<img width="612" height="326" alt="PowerBI_Sales_Insights(2)" src="https://github.com/user-attachments/assets/b8a74bfb-3cab-41ae-9d22-397f04732452" />
+
 
 ## Project Insights
 - Total Revenue: 7.28M | Total Sales Quantity: 16K in 2018.
