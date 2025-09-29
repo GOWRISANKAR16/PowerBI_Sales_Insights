@@ -3,4 +3,4 @@
 The goal of this project is to analyze sales data and provide insights into market performance, customer contribution, and product trends for the year 2018.
 This dashboard helps stakeholders understand which markets, products, and customers are driving revenue and sales quantity, so that they can make data-driven decisions to improve growth in the coming years.
 # Dataset Used : 
-  Dataset(https://github.com/GOWRISANKAR16/PowerBI_Sales_Insights/blob/main/db_dump.sql).
+  [Dataset](https://github.com/GOWRISANKAR16/PowerBI_Sales_Insights/blob/main/db_dump.sql).
