@@ -5,9 +5,9 @@ The dashboard enables stakeholders to identify which markets, products, and cust
 ## Dataset Used : 
   [Dataset](https://github.com/GOWRISANKAR16/PowerBI_Sales_Insights/blob/main/db_dump.sql)
 ## Questions (KPIs)
-- What is the total revenue and sales quantity in 2018?
-- Which markets generated the highest revenue and sales?
-- What is the revenue trend across months in 2018?
+- What is the total revenue and sales quantity for the selected time period?
+- Which markets generate the highest revenue and sales?
+- What is the revenue trend across different months?
 - Who are the top 5 customers by revenue contribution?
 - What are the top 5 products sold?
 
