@@ -11,6 +11,14 @@ This dashboard helps stakeholders understand which markets, products, and custom
 - Who are the top 5 customers by revenue contribution?
 - What are the top 5 products sold?
 
+## Dashboard Interaction
+The dashboard provides the ability to filter by:
+- Year (2017, 2018, 2019, 2020)
+- Month (January, February, March, etc.)
+
+This allows users to dynamically analyze revenue and sales across different time periods.
+
+
 
 
 
