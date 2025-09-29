@@ -28,7 +28,7 @@ This allows users to dynamically analyze revenue and sales across different time
    - Top 5 Customers  
    - Top 5 Products  
 5. Combined all visuals into an interactive dashboard with slicers for year and month.
-##Dashboard
+## Dashboard
 <img width="610" height="325" alt="PowerBI_Sales_Insights" src="https://github.com/user-attachments/assets/66bdb930-6a68-4b2e-9966-c05e638b571a" />
 
 ## Project Insights
@@ -38,7 +38,7 @@ This allows users to dynamically analyze revenue and sales across different time
 - Electricalsara Stores is the top customer (3.0M contribution).
 - The top-selling product contributed 4.6M revenue.
 - Other products (Prod159, Prod102, Prod053, Prod060) individually contribute less than 0.2M each.
-##Final Conclusion
+## Final Conclusion
 Most sales come from Delhi NCR and a few top customers like Electricalsara Stores. To grow further, the business should focus on strengthening key markets and customers, expand sales in smaller markets, and promote a wider range of products instead of relying heavily on one category.
 
 
