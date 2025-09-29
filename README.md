@@ -1,2 +1,4 @@
-# PowerBI_Sales_Insights
-The project analyzes sales performance using SQL and Power BI, focusing on customers, products, markets, and monthly sales. It highlights top products, key customers, and revenue trends, supporting data-driven decisions and business growth through interactive dashboards.
+## Sales Insights (Interactive Dashboard Creation using Power BI)
+# Project Objective
+The goal of this project is to analyze sales data and provide insights into market performance, customer contribution, and product trends for the year 2018.
+This dashboard helps stakeholders understand which markets, products, and customers are driving revenue and sales quantity, so that they can make data-driven decisions to improve growth in the coming years.
